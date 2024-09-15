@@ -1,0 +1,3 @@
+/home/achro/Projects/cppLearn/cpp_headerfiles_ch/cpp_headerfiles_ch/Log.h
+/home/achro/Projects/cppLearn/cpp_headerfiles_ch/cpp_headerfiles_ch/main.cpp
+/home/achro/Projects/cppLearn/cpp_headerfiles_ch/cpp_headerfiles_ch/log.cpp
